@@ -5,3 +5,6 @@
 
 ## Fake Video Detection
 .. used celeb df dataset for fake video detection and used harcascade classifier to extract faces from the video.
+
+## Project Video Link: 
+https://youtu.be/Q_1J79IfVog
